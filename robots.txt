@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ltighwag.github.io/sitemap.ltighwag.gz
+Sitemap: https://ltighwag.github.io/app/sitemap.ltighwag.gz
+Sitemap: https://ltighwag.github.io/assets/sitemap.ltighwag.gz
+Sitemap: https://ltighwag.github.io/css/sitemap.ltighwag.gz
+Sitemap: https://ltighwag.github.io/data/sitemap.ltighwag.gz
+Sitemap: https://ltighwag.github.io/includes/sitemap.ltighwag.gz
+Sitemap: https://ltighwag.github.io/item/sitemap.ltighwag.gz
+Sitemap: https://ltighwag.github.io/src/sitemap.ltighwag.gz
